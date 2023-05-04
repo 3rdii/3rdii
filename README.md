@@ -1,7 +1,8 @@
 # Hi there 👋, my name is 3rdi! <img src="https://media.giphy.com/media/ddZXIrimeaXY0xclfC/giphy.gif" width="50"></h2>
 
-![visitors](https://komarev.com/ghpvc/?username=creeper-exe&&style=flat-square)
+![visitors](https://komarev.com/ghpvc/?username=3rdi&&style=flat-square)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ### <img src="https://media.giphy.com/media/5mqTCdffpcehhZP6Vf/giphy.gif" width="50"> A little more about me... 
 
